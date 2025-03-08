@@ -6,7 +6,7 @@
 <img src="https://scet.berkeley.edu/wp-content/uploads/8.-SRM-Logo-300x300.png" width="20"/>SRM INSTITUTE OF SCIENCE AND TECHNOLOGY -B.Tech in CSE with Specialization in AI and ML 2023-2027 
 <h3 align="left">Let's Connect</h3>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achyuthpadmanabham@gmail.com)
 <!--
 **Achyuth5689/Achyuth5689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
