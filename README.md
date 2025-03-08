@@ -1,4 +1,6 @@
 ## Hi there 👋 I am Achyuth
+
+<h3 align="left">Skills:</h3>
 <!--
 **Achyuth5689/Achyuth5689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
