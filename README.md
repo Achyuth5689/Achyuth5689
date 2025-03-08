@@ -7,7 +7,7 @@
 <h3 align="left">Let's Connect</h3>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achyuthpadmanabham@gmail.com)
-
+</p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Achyuth5689&theme=dark" alt="GitHub Streak" /></a>
 <!--
 **Achyuth5689/Achyuth5689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
