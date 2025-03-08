@@ -7,7 +7,11 @@
 <h3 align="left">Let's Connect</h3>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achyuthpadmanabham@gmail.com)
-</p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Achyuth5689&theme=dark" alt="GitHub Streak" /></a>
+
+[![Vishnu's GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=Achyuth5689&layout=compact&theme=dark&cache_seconds=1)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Achyuth5689&theme=dark&cache_seconds=1)](https://git.io/streak-stats)
+[![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achyuth5689&count_private=true&show_icons=true&theme=dark&cache_seconds=1)](https://github.com/anuraghazra/github-readme-stats)
+<!--
 <!--
 **Achyuth5689/Achyuth5689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
